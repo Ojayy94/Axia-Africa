@@ -109,4 +109,4 @@ The analysis of this report can be found [here:](https://www.canva.com/design/DA
 
 
 # JUPYTER NOTEBOOK
-[Axia Africa Data SCience Cohort 6](https://github.com/Ojayy94/Axia-Africa/blob/main/Project/Project.ipynb)
+[Axia Africa Data Science Cohort 6](https://github.com/Ojayy94/Axia-Africa/blob/main/Project/Project.ipynb)
